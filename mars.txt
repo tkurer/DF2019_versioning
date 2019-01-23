@@ -2,3 +2,5 @@ Mars is a red planet.
 It is cold and dry, but everything is my favorite color.
 
 The two moons may make it interesting.
+
+And we also change something here, that is, on github.com, before having pulled/pushed the locally changed file. Deliberately create conflict.
